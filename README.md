@@ -2,4 +2,4 @@
 
 Final Project of Digital Talent Scolarship (DTS) on Big Data for Social Science by Kementerian Kominfo
 
-Group Project on Classificaton of Ads Clicking Behvaior of a web platform.
+Group Project on Classificaton of Ads Clicking Behavior of a web platform. Classification Model using Decision Tree Classifier.
